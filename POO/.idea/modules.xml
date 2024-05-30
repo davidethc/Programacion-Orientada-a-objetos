@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Taller03/taller03-ljmora004/Ejemplo/Ejemplo.iml" filepath="$PROJECT_DIR$/Taller03/taller03-ljmora004/Ejemplo/Ejemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase06-2bim-ljmor/EjemploBD/EjemploBD.iml" filepath="$PROJECT_DIR$/clase06-2bim-ljmor/EjemploBD/EjemploBD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase06-2bim-ljmor/EjemploBD02/EjemploBD02.iml" filepath="$PROJECT_DIR$/clase06-2bim-ljmor/EjemploBD02/EjemploBD02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Herencia_Polimorfismo/EjemploHerencia/EjemploHerencia.iml" filepath="$PROJECT_DIR$/03_Herencia_Polimorfismo/EjemploHerencia/EjemploHerencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Herencia_Polimorfismo/EjemploPolimorfismo/EjemploPolimorfismo.iml" filepath="$PROJECT_DIR$/03_Herencia_Polimorfismo/EjemploPolimorfismo/EjemploPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenBim02/ExamenBim02.iml" filepath="$PROJECT_DIR$/ExamenBim02/ExamenBim02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller06/Taller06.iml" filepath="$PROJECT_DIR$/Taller06/Taller06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabajoFinal/TrabajoFinal.iml" filepath="$PROJECT_DIR$/TrabajoFinal/TrabajoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase004-2bim-ljmor/clase004-2bim-ljmor.iml" filepath="$PROJECT_DIR$/clase004-2bim-ljmor/clase004-2bim-ljmor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase05-2bim-ljmor/clase05-2bim-ljmor.iml" filepath="$PROJECT_DIR$/clase05-2bim-ljmor/clase05-2bim-ljmor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase07-2bim-ljmor/clase07-2bim-ljmor.iml" filepath="$PROJECT_DIR$/clase07-2bim-ljmor/clase07-2bim-ljmor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio-clase04-2bim-ljmor/ejercicio-clase04-2bim-ljmor.iml" filepath="$PROJECT_DIR$/ejercicio-clase04-2bim-ljmor/ejercicio-clase04-2bim-ljmor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final-2bim-grupo-005-1/final-2bim-grupo-005-1.iml" filepath="$PROJECT_DIR$/final-2bim-grupo-005-1/final-2bim-grupo-005-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller14-ljmor/problema01/problema01.iml" filepath="$PROJECT_DIR$/taller14-ljmor/problema01/problema01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller12-005/problema01/problema011.iml" filepath="$PROJECT_DIR$/taller12-005/problema01/problema011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller14-ljmor/problema02/problema02.iml" filepath="$PROJECT_DIR$/taller14-ljmor/problema02/problema02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller12-005/problema02/problema021.iml" filepath="$PROJECT_DIR$/taller12-005/problema02/problema021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema1/problema1.iml" filepath="$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema1/problema1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller03/taller03-ljmora004/problema1/problema11.iml" filepath="$PROJECT_DIR$/Taller03/taller03-ljmora004/problema1/problema11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller03/taller03-ljmora004/problema2/problema2.iml" filepath="$PROJECT_DIR$/Taller03/taller03-ljmora004/problema2/problema2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema2/problema21.iml" filepath="$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema2/problema21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema3/problema3.iml" filepath="$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema3/problema3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller03/taller03-ljmora004/problema3/problema31.iml" filepath="$PROJECT_DIR$/Taller03/taller03-ljmora004/problema3/problema31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema4/problema4.iml" filepath="$PROJECT_DIR$/Taller04/taller-04-2-ljmora004/problema4/problema4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taller03/taller03-ljmora004/problema4/problema41.iml" filepath="$PROJECT_DIR$/Taller03/taller03-ljmora004/problema4/problema41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller-repaso-parcial-grupo-006/taller-repaso-parcial-grupo-006.iml" filepath="$PROJECT_DIR$/taller-repaso-parcial-grupo-006/taller-repaso-parcial-grupo-006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller09-ljmor/taller09-ljmor.iml" filepath="$PROJECT_DIR$/taller09-ljmor/taller09-ljmor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller11-ljmor/taller11-ljmor.iml" filepath="$PROJECT_DIR$/taller11-ljmor/taller11-ljmor.iml" />
+    </modules>
+  </component>
+</project>
